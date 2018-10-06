@@ -1,2 +1,1 @@
-# Tensorflow_Samples
-Sample DNN models in Tensorflow
+Classification of MNIST_Fashion dataset using TensorFlow
