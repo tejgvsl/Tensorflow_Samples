@@ -1,6 +1,6 @@
 # Identifying characters/actors and calculating their respective screen appearance time (in seconds) in a video-file.
 
-Clone the code into the respective directory.
+Clone the repository into the respective directory.
 
 Make sure the below Pre-requisites are installed:
 ------------------------------------------------
@@ -27,12 +27,12 @@ https://drive.google.com/file/d/1uIAXp_2WHwb_SLZF3fwpW9lbo9eRaTtp/view
 
 Steps to run the code:
 -----------------------
-Jump to the director where code, video and csv files are present.
-pyhon Screen_time_of_Actors_In_Videos.py.
+Switch to the directory where code, video and csv files are present. Execute the below command.
+pyhon Screen_time_of_Actors_In_Videos.py
 
 Output:
 -------
-Screen time of actors (Tom and Jerry) will be displayed on screen.
+Screen time of actors (Tom and Jerry) in the video file "Tom and jerry3.mp4" will be displayed.
 
 
 
